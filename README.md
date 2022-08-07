@@ -24,6 +24,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [TailwindCSS](https://tailwindcss.com/)
 - [Axios](https://github.com/axios/axios)
 - [React-toastify](https://fkhadra.github.io/react-toastify/introduction)
+- [React icons](https://react-icons.github.io/react-icons/)
 
 ---
 
