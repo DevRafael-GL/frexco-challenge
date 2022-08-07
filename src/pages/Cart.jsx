@@ -43,6 +43,7 @@ export const Cart = () => {
     if (result === true) {
       cleanCart();
       toast.success("Obrigado por comprar com a gente!");
+      console.log(productsCart);
     }
   }
 

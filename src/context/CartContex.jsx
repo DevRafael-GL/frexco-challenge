@@ -54,10 +54,6 @@ export const CartContexProvider = ({ children }) => {
       item.qtd = +event.target.value;
     }
 
-    if (item.qtd == 0) {
-      item.qtd = 1;
-    }
-
     setProductsCart(products);
   }
 
