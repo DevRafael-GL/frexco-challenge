@@ -2,9 +2,21 @@
   <img style="width: 200px;" src="src/assets/frexco-icon.svg">
 </h1>
 
-<!-- <h1>
-    <img src="public/apresentacao.gif">
-</h1> -->
+<h1 align="center">
+    Apresentação do projeto
+</h1>
+
+<h1 align="center">
+    <img src="src/assets/gif-1.gif">
+</h1>
+
+<h1 align="center">
+    <img src="src/assets/gif-2.gif">
+</h1>
+
+<h1 align="center">
+    <img src="src/assets/gif-3.gif">
+</h1>
 
 
 
