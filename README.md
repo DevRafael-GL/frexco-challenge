@@ -1,22 +1,18 @@
 <h1 align="center">
-    <img src="src/assets/logo-frexco.png">
+  <img style="width: 200px;" src="src/assets/frexco-icon.svg">
 </h1>
 
 <!-- <h1>
     <img src="public/apresentacao.gif">
 </h1> -->
 
-# Indice
 
-- [Sobre](#-sobre)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Como baixar o projeto](#-como-baixar-o-projeto)
 
 ## ⚠️ Importante
 
-Caso os dados da API não carreguem, ultilizar a extensão Moesif Origin & CORS Changer em seu navegador, de preferencia o Google Chrome. Desativar extensão apos o uso.
+Caso os dados da API não carreguem, ultilizar a extensão [Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) em seu navegador, de preferencia no Google Chrome. Desativar extensão apos o uso.
 
-<img src="src/assets/Moesif-Origin-&-CORS-Changer.jpg">
+<img src="/src/assets/Moesif-Origin-%26-CORS-Changer.JPG">
 
 ---
 
@@ -27,6 +23,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - [ReactJS](https://reactjs.org)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Axios](https://github.com/axios/axios)
+- [React-toastify](https://fkhadra.github.io/react-toastify/introduction)
+- [React icons](https://react-icons.github.io/react-icons/)
 
 ---
 
@@ -35,7 +33,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/DevRafael-GL/frexco-challenge.git
+    $ git clone https://github.com/DevRafael-GL/frexco-challenge
 
     # Entrar no diretório
     $ cd frexco-challenge
