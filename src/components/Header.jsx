@@ -15,7 +15,7 @@ export const Header = () => {
         </Link>
         <Link
           to="/cart"
-          className="relative w-16 flex justify-center items-center bg-zinc-200 rounded-full hover:bg-zinc-300 transition-colors"
+          className="relative w-16 flex justify-center items-center bg-zinc-200 rounded-full hover:bg-zinc-300 transition-colors border border-zinc-300"
         >
           {productsCart.length !== 0 && (
             <p className="absolute flex justify-center items-center w-6 h-6 top-0 right-0 bg-red-600 rounded-full text-slate-100">
