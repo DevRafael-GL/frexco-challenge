@@ -15,11 +15,13 @@ export const Header = () => {
         </Link>
         <Link
           to="/cart"
-          className="relative w-16 flex justify-center items-center bg-zinc-200 rounded-full"
+          className="relative w-16 flex justify-center items-center bg-zinc-200 rounded-full hover:bg-zinc-300 transition-colors"
         >
-          <p className="absolute flex justify-center items-center w-6 h-6 top-0 right-0 bg-red-600 rounded-full text-slate-100">
-            {productsCart ? productsCart.length : 0}
-          </p>
+          {productsCart.length !== 0 && (
+            <p className="absolute flex justify-center items-center w-6 h-6 top-0 right-0 bg-red-600 rounded-full text-slate-100">
+              {productsCart ? productsCart.length : 0}
+            </p>
+          )}
           <BsCart3 size={25} />
         </Link>
       </div>
