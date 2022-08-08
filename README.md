@@ -22,7 +22,7 @@
 
 ## ⚠️ Importante
 
-Caso os dados da API não carreguem, ultilizar a extensão [Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) em seu navegador, de preferencia no Google Chrome. Desativar extensão apos o uso.
+Caso os dados da API não carreguem, ultilizar a extensão [Moesif Origin & CORS Changer](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc) em seu navegador, de preferencia no Google Chrome. Desativar extensão após o uso.
 
 <img src="/src/assets/Moesif-Origin-%26-CORS-Changer.JPG">
 
